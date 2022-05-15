@@ -1,4 +1,4 @@
-👋  Hi there! I'm **full stack developer** skilled in AWS, API, and APP.🚀  
+👋  Hi there! I'm **Backend Developer** skilled in AWS, API, and APP.🚀  
 For the past year, I have been interested in creating MSA architecture with AWS and a backend with Spring boot.  
 Sometimes I develop cross-platforms mobile app like Flutter.
 
